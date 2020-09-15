@@ -2,8 +2,9 @@
 5V, GND를 분배하는 파워스트립 PCB입니다.
 
 # 제작자
-라즈겜동 미스터요다
-https://cafe.naver.com/raspigamer
+Title : PowerStrip-PCB<br>
+Author : 미스터요다<br>
+Cafe : http://cafe.naver.com/raspigamer<br>
 
 ![powerstrip](https://blogfiles.pstatic.net/MjAxOTA1MDRfMjUg/MDAxNTU2OTU5MTcyOTcz.wD7HmKz5oOkINGg_BnMsqgk-U8bbR_5xcLqS7Hfvskwg.aD2D3lxkSFa8l9rP59gVuj6tfqgsg8bZrGOIh7I1u_Ig.JPEG.zzeromin/powerstrip01.jpg)
 
